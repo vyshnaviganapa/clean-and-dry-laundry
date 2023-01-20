@@ -1,6 +1,6 @@
 # clean-and-dry-laundry
 # ✨ CLEAN and DRY fresh  ✨
-## finalpro:Future Ready Talent Project By 
+## finalpro:Future Ready Talent Project By GANAPA VYSHNAVI
 ## Laundry Website
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
@@ -50,6 +50,7 @@ Project demo video URL:
 ## HOME/SERVICE
 
 <img width="1067" alt="vy service" src="https://user-images.githubusercontent.com/116909180/213744853-040fd9b4-5c12-4e70-ab16-6262216f94e9.png">
+
 ## HOME/GALLERY
 
 <img width="1066" alt="vy gallery" src="https://user-images.githubusercontent.com/116909180/213744961-c27b4901-322b-4d2c-b883-5c0814b2f73d.png">
