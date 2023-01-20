@@ -22,9 +22,9 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot, Health Bot.
 
 1.Static Web App URL : https://yellow-moss-0cbe47910.2.azurestaticapps.net
 
-2.Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL : 
+2.Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL : https://cleananddry.azurewebsites.net
 
-3.App Service URL : 
+3.App Service URL : https://cleananddry.azurewebsites.net
 
 .................................................................................................................................................................
 
@@ -39,6 +39,8 @@ Project demo video URL:
 
 <img width="1067" alt="b home2" src="https://user-images.githubusercontent.com/116909180/213744491-fa19f603-9c0f-4a09-a303-af3556521c36.png">
 <img width="1067" alt="b home3" src="https://user-images.githubusercontent.com/116909180/213744506-bec6ba44-5221-4373-af4b-b89898658f01.png">
+
+<img width="1080" alt="vy,homebot" src="https://user-images.githubusercontent.com/116909180/213748889-d5a4862f-eeb0-4c09-a2a4-ffbae26f67af.png">
 
 
 ## HOME/About
@@ -59,10 +61,18 @@ Project demo video URL:
 ## HOME/CONTACT
 
 <img width="1064" alt="vy contact" src="https://user-images.githubusercontent.com/116909180/213745204-dc07618e-5e3a-4fff-a6ed-54c59cb88d17.png">
+
 ## BOT
+<img width="1079" alt="vy bot1" src="https://user-images.githubusercontent.com/116909180/213748924-ab5fc87e-0dfe-4910-abe0-5e1767f49aea.png">
+<img width="1079" alt="vy bot2" src="https://user-images.githubusercontent.com/116909180/213748948-9c478601-dbc3-4419-be74-959a7e6021b0.png">
+
+
 
 
 ## AZURE SERVICES USED
+
+<img width="1080" alt="VY AZUZRE" src="https://user-images.githubusercontent.com/116909180/213749007-9f9bd6e2-8256-4b10-bc62-b72e145f2eb9.png">
+
 
 
 
