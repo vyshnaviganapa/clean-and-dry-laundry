@@ -39,6 +39,8 @@ Project demo video URL:
 
 <img width="1067" alt="b home2" src="https://user-images.githubusercontent.com/116909180/213744491-fa19f603-9c0f-4a09-a303-af3556521c36.png">
 <img width="1067" alt="b home3" src="https://user-images.githubusercontent.com/116909180/213744506-bec6ba44-5221-4373-af4b-b89898658f01.png">
+
+
 ## HOME/About
 
 <img width="1067" alt="vy about" src="https://user-images.githubusercontent.com/116909180/213744730-5c388739-6696-49c2-8c5c-ddac5fcc6b50.png">
@@ -58,6 +60,8 @@ Project demo video URL:
 
 <img width="1064" alt="vy contact" src="https://user-images.githubusercontent.com/116909180/213745204-dc07618e-5e3a-4fff-a6ed-54c59cb88d17.png">
 ## BOT
+
+
 ## AZURE SERVICES USED
 
 
