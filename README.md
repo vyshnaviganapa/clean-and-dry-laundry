@@ -20,15 +20,16 @@ Project Description           :  EASY TO WASH
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot, Health Bot.
 .................................................................................................................................................................
 
-1.Static Web App URL : 
+1.Static Web App URL : https://yellow-moss-0cbe47910.2.azurestaticapps.net
 
 2.Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL : 
 
 3.App Service URL : 
+
 .................................................................................................................................................................
 
 
 Project demo video URL:  
 
 
-## MY WEBSITE LINK IS : 
+## MY WEBSITE LINK IS : https://yellow-moss-0cbe47910.2.azurestaticapps.net
