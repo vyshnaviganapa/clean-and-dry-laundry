@@ -36,10 +36,14 @@ Project demo video URL:  https://drive.google.com/drive/folders/16Heg9k1O3vvRuXo
 
 ## HOME
 
-<img width="1067" alt="b home1" src="https://user-images.githubusercontent.com/116909180/213744474-886d7f67-dd39-47f7-bd74-ce729f9989d6.png">
-<img width="1067" alt="b home2" src="https://user-images.githubusercontent.com/116909180/213744491-fa19f603-9c0f-4a09-a303-af3556521c36.png">
-<img width="1067" alt="b home3" src="https://user-images.githubusercontent.com/116909180/213744506-bec6ba44-5221-4373-af4b-b89898658f01.png">
 
+<img width="1067" alt="vy home1" src="https://user-images.githubusercontent.com/116909180/214629445-eb84609a-ad34-4b62-a76e-502dab87a255.png">
+<img width="1067" alt="vy home2" src="https://user-images.githubusercontent.com/116909180/214629497-4daf984b-73ba-4dcc-8727-fdeb53b78643.png">
+<img width="1067" alt="vy home3" src="https://user-images.githubusercontent.com/116909180/214629550-fa9d1723-098a-433d-be51-089d49832fc9.png">
+<img width="1063" alt="vy home4" src="https://user-images.githubusercontent.com/116909180/214629603-5534da89-ff59-4ae1-bd51-6bfe4b2b338f.png">
+<img width="1067" alt="vy home5" src="https://user-images.githubusercontent.com/116909180/214629629-afec0800-dc8e-424f-8f87-6d7038c1d44c.png">
+<img width="1064" alt="vy home6" src="https://user-images.githubusercontent.com/116909180/214629662-b1146f1b-87e6-4b63-83f6-7560440a7cd9.png">
+<img width="1062" alt="vy home7" src="https://user-images.githubusercontent.com/116909180/214629694-45ac9ca1-60d8-4ae3-b8e0-d9965de62234.png">
 <img width="1080" alt="vy,homebot" src="https://user-images.githubusercontent.com/116909180/213748889-d5a4862f-eeb0-4c09-a2a4-ffbae26f67af.png">
 
 
